@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.item{
+    color: darkblue;
+    cursor: pointer;
+}
+
+.fimg{
+    height: 0px;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
